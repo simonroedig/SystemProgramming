@@ -1,6 +1,5 @@
 # quarto-client
-
-Gruppe 2
+![Group Logo](Logo.png "Group Logo")
 
 ## Usage
 
